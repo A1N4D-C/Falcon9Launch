@@ -1,5 +1,5 @@
 """
-SpaceX Launch Dash Application
+Part 7: SpaceX Launch Dash Application
 
 This application creates an interactive dashboard using Plotly Dash to analyze SpaceX launch data.
 
